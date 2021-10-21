@@ -3,4 +3,4 @@ A styled html page built as while undertaking the [Codecademy Full Stack Enginee
 
 Built to this [design mock](https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion.png) and this [redline mock](https://content.codecademy.com/programs/freelance-one/excursion/mocks/excursion_redline.png). 
 
-Project currently in progress.
+Project is complete and can be viewed [here](https://cestephens.github.io/excursion/).
