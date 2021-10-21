@@ -29,3 +29,8 @@ footer {
     color: gray;
     text-align: right;
 }
+
+figure {
+    margin-top: 21px;
+    margin-bottom: 21px;
+}
